@@ -5,4 +5,4 @@ FROM [RightAns].[RightAnswer_raReportTable] r
 
 
    Insert into [RightAns].[RightAnswer_raReportTable]
-   select * from RightAns].[temp_Import_raReportTable]
+   select * from [RightAns].[temp_Import_raReportTable]
